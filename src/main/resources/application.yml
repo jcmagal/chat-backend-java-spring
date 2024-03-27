@@ -10,14 +10,3 @@ spring:
 server:
   port: 8088
 
-cloud:
-  aws:
-    credentials:
-      access-key: AKIAW3MED2C6X4FIYADG
-      secret-key: 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
-    region:
-      static: sa-east-1
-    stack:
-      auto: false
-    s3:
-      bucket: chatfilesdocs
